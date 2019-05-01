@@ -1,1 +1,4 @@
-# Networks_Projejct
+# Networks_Project
+* client.py ❌
+* server.py ❌
+* report ❌
